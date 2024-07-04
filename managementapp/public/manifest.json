@@ -1,0 +1,8 @@
+{
+  "short_name": "Material Dashboard",
+  "name": "Material Dashboard 2 React",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1A73E8",
+  "background_color": "#ffffff"
+}
